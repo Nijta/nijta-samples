@@ -2,7 +2,7 @@
 
 Welcome to our code documentation resource! We're excited to provide you with all the information you need to navigate our project smoothly and make the most out of your experience. 🚀
 
-To get started, head over to our documentation page at [NijtaIO](https://dash.readme.com/project/nijta/v1.0/refs/getting-started-1). Here, you'll find a comprehensive guide that covers everything from installation instructions to advanced usage scenarios. 
+To get started, head over to our documentation page at [NijtaIO](https://nijta.readme.io/reference/getting-started-1). Here, you'll find a comprehensive guide that covers everything from installation instructions to advanced usage scenarios. 
 
 ## 👍 How to Obtain Your Access Token:
 Getting your hands on this magical token is a breeze! Simply reach out to us at [contact@nijta.com](mailto:contact@nijta.com) and let us know that you're ready to embrace the Nijta experience at its fullest. Our dedicated team is here to assist you in receiving your Access Token promptly, so you can start your journey without delay.
