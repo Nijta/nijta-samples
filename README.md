@@ -8,7 +8,7 @@ To get started, head over to our documentation page at [NijtaIO](https://dash.re
 Getting your hands on this magical token is a breeze! Simply reach out to us at [contact@nijta.com](mailto:contact@nijta.com) and let us know that you're ready to embrace the Nijta experience at its fullest. Our dedicated team is here to assist you in receiving your Access Token promptly, so you can start your journey without delay.
 
 ## 📚 Support:
-Should you have any questions along the way or need clarification on any topic, don't hesitate to reach out to our dedicated support [team](mailto:tech@nijta.com). We're here to ensure that your journey through our code documentation is as smooth and productive as possible.
+Should you have any questions along the way or need clarification on any topic, don't hesitate to reach out to our dedicated support [team](mailto:tech@nijta.com) or create a issue here. We're here to ensure that your journey through our code documentation is as smooth and productive as possible.
 
 Thank you for choosing our project, and happy coding! 🖥️
 
