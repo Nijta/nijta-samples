@@ -7,7 +7,7 @@ To get started, head over to our documentation page at **[NijtaIO](https://nijta
 ## 👍 How to Obtain Your Access Token:
 Getting your hands on this magical token is a breeze! Simply reach out to us at **[contact@nijta.com](mailto:contact@nijta.com)** and let us know that you're ready to embrace the Nijta experience at its fullest. Our dedicated team is here to assist you in receiving your Access Token promptly.
 
-## 📚 Support:
+## 📚 Issues & Support:
 Should you have any questions along the way or need clarification on any topic, don't hesitate to reach out to our dedicated support **[team](mailto:tech@nijta.com)** or create a issue **[here](https://github.com/Nijta/nijta-samples/issues)**. We're here to ensure that your journey through our code documentation is as smooth and productive as possible.
 
 Thank you for choosing Nijta, and happy coding! 🖥️
