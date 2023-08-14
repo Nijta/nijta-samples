@@ -10,5 +10,4 @@ Getting your hands on this magical token is a breeze! Simply reach out to us at 
 ## 📚 Support:
 Should you have any questions along the way or need clarification on any topic, don't hesitate to reach out to our dedicated support **[team](mailto:tech@nijta.com)** or create a issue **[here](https://github.com/Nijta/nijta-samples/issues)**. We're here to ensure that your journey through our code documentation is as smooth and productive as possible.
 
-**Thank you for choosing our project, and happy coding! 🖥️
-**
+**Thank you for choosing our project, and happy coding! 🖥️**
